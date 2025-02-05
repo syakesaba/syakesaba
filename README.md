@@ -1,16 +1,21 @@
-## Hi there 👋
+## こんにちは！ 👋 syakesaba です！
 
-<!--
-**syakesaba/syakesaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+お金が無くても、時間が無くても、スキルさえなくても
+アイデア一つで誰でもイノベーションを起こせるような
+オープンなIT技術で作られた民主的なIT社会に夢見てます！
 
-Here are some ideas to get you started:
+### プログラミング言語
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Shell, C, Java, Pythonを経てGo, Rustを勉強中！
+
+### IT系経歴
+
+ネットワークエンジニア⇒インフラエンジニア⇒セキュリティエンジニア⇒データエンジニア
+
+### IT系保有資格
+
+- 情報処理推進機構
+  - 基本情報技術者試験（FW）
+  - 応用情報技術者試験（AP）
+  - ネットワークスペシャリスト（NW）
+  - セキュリティスペシャリスト（SC）
