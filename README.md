@@ -19,3 +19,6 @@ Shell, C, Java, Pythonを経てGo, Rustを勉強中！
   - 応用情報技術者試験（AP）
   - ネットワークスペシャリスト（NW）
   - セキュリティスペシャリスト（SC）
+
+### Contact
+visit https://www.syakesaba.com
